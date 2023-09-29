@@ -1,0 +1,6 @@
+C:\Users\jpier\Documents\Ecommerce\MVC\ML\bin\Debug\ML.dll
+C:\Users\jpier\Documents\Ecommerce\MVC\ML\bin\Debug\ML.pdb
+C:\Users\jpier\Documents\Ecommerce\MVC\ML\obj\Debug\ML.csproj.AssemblyReference.cache
+C:\Users\jpier\Documents\Ecommerce\MVC\ML\obj\Debug\ML.csproj.CoreCompileInputs.cache
+C:\Users\jpier\Documents\Ecommerce\MVC\ML\obj\Debug\ML.dll
+C:\Users\jpier\Documents\Ecommerce\MVC\ML\obj\Debug\ML.pdb

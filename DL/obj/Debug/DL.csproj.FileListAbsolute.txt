@@ -1,0 +1,9 @@
+C:\Users\jpier\Documents\Ecommerce\MVC\DL\bin\Debug\DL.dll
+C:\Users\jpier\Documents\Ecommerce\MVC\DL\bin\Debug\DL.pdb
+C:\Users\jpier\Documents\Ecommerce\MVC\DL\bin\Debug\ML.dll
+C:\Users\jpier\Documents\Ecommerce\MVC\DL\bin\Debug\ML.pdb
+C:\Users\jpier\Documents\Ecommerce\MVC\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+C:\Users\jpier\Documents\Ecommerce\MVC\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\jpier\Documents\Ecommerce\MVC\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\jpier\Documents\Ecommerce\MVC\DL\obj\Debug\DL.dll
+C:\Users\jpier\Documents\Ecommerce\MVC\DL\obj\Debug\DL.pdb
